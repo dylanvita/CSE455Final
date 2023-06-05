@@ -18,7 +18,7 @@ The dataset I used was the dataset given by the Kaggle competition - https://www
 
 As you can see, the longer the model structure, the lower the loss over one epoch. This is not surprising as that is the same trend for performance for these models on ImageNet. 
 
-
+![test_validation.png](test_validation.png)
 
 ## Discussion
 
