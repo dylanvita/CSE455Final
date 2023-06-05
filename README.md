@@ -20,6 +20,8 @@ As you can see, the longer the model structure, the lower the loss over one epoc
 
 ![test_validation.png](test_validation.png)
 
+I could only run 8 epochs because of storage and cannot compare the test accuracies because all of the test data is labeled as bird 403 even though they are different birds. I am showing this figure to demonstrate would I would have used in my decision making for if my model is overfitting or not.
+
 ## Discussion
 
 
