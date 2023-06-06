@@ -26,7 +26,7 @@ I could only run 8 epochs because of storage and cannot compare the test accurac
 
 ## Video
 
-![455final.mp4](455final.mp4)
+[![455final.mp4](455final.mp4)](https://www.youtube.com/watch?v=m7PPbr0f-H0)
 
 ## Discussion
 
