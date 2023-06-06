@@ -24,7 +24,10 @@ As you can see, the longer the model structure, the lower the loss over one epoc
 
 I could only run 8 epochs because of storage and cannot compare the test accuracies because all of the test data is labeled as bird 403 even though they are different birds. I am showing this figure to demonstrate would I would have used in my decision making for if my model is overfitting or not. I know at 8 epochs the model is not overfitting because when submitting on kaggle, the test accuracy of the model at the 8 epoch checkpoint is significantly higher than at the checkpoint of epoch 7.
 
-## Discussion
+## Video
 
+<video src='455final.mp4' width=180/>
+
+## Discussion
 
 My project's experiments were not as extensive as I would have liked them to be. I would have liked to train each ResNet model structure for more epochs and predict using those models and experiment with other pre-trained models other than ResNet. However, I started my project trying to create my own model on attu. I had a working model (was not very accurate ~1% training accuracy) but attu ran into issues (I think space issues). All of my main python file that defined my model and had all of the code that I used to pre-process the data to be usable in the way I was using the model (included resizing all of the images to 256x256 and 64x64) was deleted. I also completely lost access to attu, so I pivoted to this new project. Because of this late start, I didn't have enough time to train the amount of models and for the amount of epochs I wanted to. I also would have liked to run my resnet152 for more epochs but I ran out of storage on google drive to store checkpoint information and I did not want to delete my previous checkpoints.
