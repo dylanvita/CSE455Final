@@ -26,7 +26,7 @@ I could only run 8 epochs because of storage and cannot compare the test accurac
 
 ## Video
 
-<video src='455final.mp4' width=180/>
+![455final.mp4](455final.mp4)
 
 ## Discussion
 
